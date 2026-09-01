@@ -1,136 +1,216 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Dileep
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=DILEEP%20MADIVAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### MCA Student • Software Developer • AI/ML Enthusiast
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+%26+Android+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=MCA+STUDENT+%7C+SOFTWARE+DEVELOPER;ANDROID+%7C+FLUTTER+%7C+WEB;AI%2FML+%7C+CLOUD+%7C+BACKEND;BUILDING+IDEAS+INTO+REAL+PROJECTS;CODE.+CREATE.+LEARN.+REPEAT.+%F0%9F%9A%80" alt="Typing Animation"/>
 
-<p>
-  <a href="https://github.com/dileepmadival">
-    <img src="https://komarev.com/ghpvc/?username=dileepmadival&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/dileepmadival?tab=followers">
-    <img src="https://img.shields.io/github/followers/dileepmadival?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/dileepmadival?tab=repositories">
-    <img src="https://img.shields.io/github/repos/dileepmadival?label=Repositories&style=for-the-badge&color=2ea44f" alt="Repositories"/>
-  </a>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dileepmadival&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/dileepmadival?label=FOLLOWERS&style=for-the-badge&color=203A43"/>
+<img src="https://img.shields.io/github/stars/dileepmadival?label=STARS&style=for-the-badge&color=F5C542"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== INTRO ===================== -->
 
-I'm **Dileep**, an MCA student and software developer who enjoys building practical applications and experimenting with modern technologies.
+<div align="center">
 
-I like working across **Android, Web Development, Backend Systems, Cloud Services and AI/ML**, with a focus on turning ideas into useful, real-world projects.
+# 👨‍💻 Hello, World!
+
+### I'm **Dileep** — an MCA student who loves turning ideas into software.
+
+</div>
 
 ```text
-🎓 MCA Student
-💻 Software Developer
-📱 Android & Flutter Developer
-🌐 Web & Backend Developer
-🤖 AI/ML Enthusiast
-🔥 Firebase & Cloud Explorer
-🧠 Always Learning & Building
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🎓 MCA Student                                             ║
+║   💻 Software Developer                                     ║
+║   📱 Android & Flutter Developer                             ║
+║   🌐 Web & Backend Developer                                 ║
+║   🤖 AI / ML Enthusiast                                      ║
+║   ☁️ Cloud & Firebase Explorer                              ║
+║                                                              ║
+║   "Building today what I imagined yesterday." 🚀             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🔭 Currently Working On
-
-### 🎵 Beatbot
-
-A modern music-focused application combining a clean user experience with smart features.
-
-**Repository:**
-👉 [Beatbot](https://github.com/dileepmadival/beatbot)
-
-I'm continuously improving its:
-
-* 🎨 User Interface
-* 📱 Android experience
-* 🎵 Music features
-* 🤖 AI-powered capabilities
-* ☁️ Firebase integration
-* ⚡ Performance and responsiveness
-
----
-
-## 🧠 What I Work With
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,dart,php,javascript,typescript" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=android,flutter,kotlin,dart" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,nestjs,flask" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-Also working with:
-
-* Pandas
-* Machine Learning
-* Data Processing
-* Model Integration
-* AI-powered application development
-
-### ☁️ Cloud & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,aws,gcp,docker,nodejs,mongodb,mysql,sqlite" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio" />
-</p>
-
----
-
-# 📊 GitHub Analytics
+<!-- ===================== STATUS ===================== -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dileepmadival&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+## 🟢 CURRENT STATUS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileepmadival&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/STATUS-Building%20Something%20Awesome-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
+
+<br><br>
+
+```text
+⚡ Coding
+████████████████████░░  90%
+
+🧠 Learning
+██████████████████░░░░  85%
+
+🚀 Building
+███████████████████░░░  88%
+
+☕ Coffee
+██████████████████████  100%
+```
 
 </div>
 
 ---
 
-## ⭐ GitHub Overview
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Building modern Android and Flutter applications with clean interfaces, useful features and smooth experiences.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Applications
+
+Creating responsive web applications with modern frontend, backend and database technologies.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI / ML
+
+Exploring machine learning models and integrating intelligent features into practical applications.
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & Backend
+
+Working with Firebase, APIs, databases, Docker and cloud platforms to build connected applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎵 Featured Project
 
 <div align="center">
 
-<img src="https://img.shields.io/github/repos/dileepmadival?label=TOTAL%20REPOSITORIES&style=for-the-badge&logo=github&color=181717" alt="Total Repositories"/>
+## Beatbot
 
-<img src="https://img.shields.io/github/followers/dileepmadival?label=FOLLOWERS&style=for-the-badge&logo=github&color=236ad3" alt="Followers"/>
+<img src="https://img.shields.io/badge/PROJECT-Beatbot-36BCF7?style=for-the-badge&logo=android&logoColor=white"/>
 
-<img src="https://img.shields.io/github/stars/dileepmadival?label=STARS&style=for-the-badge&logo=github&color=f1c40f" alt="Stars"/>
+### 🎧 A modern music-focused application
 
-<img src="https://img.shields.io/github/last-commit/dileepmadival/beatbot?label=LATEST%20PROJECT%20ACTIVITY&style=for-the-badge&logo=github&color=2ea44f" alt="Latest Activity"/>
+</div>
+
+```text
+                ┌─────────────────────────┐
+                │        🎵 BEATBOT       │
+                ├─────────────────────────┤
+                │                         │
+                │   🎧 Music              │
+                │   🎨 Modern UI          │
+                │   🤖 Smart Features     │
+                │   ☁️ Firebase            │
+                │   📱 Android             │
+                │                         │
+                └─────────────────────────┘
+```
+
+### ✨ Focus Areas
+
+* 🎨 Modern and creative UI
+* 🎵 Music experience
+* 🤖 Smart functionality
+* 🔥 Firebase integration
+* 📱 Android development
+* ⚡ Performance optimization
+
+<div align="center">
+
+<a href="https://github.com/dileepmadival/beatbot">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 🧰 Tech Universe
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,dart,php,javascript,typescript" />
+
+<br><br>
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=android,flutter,kotlin,dart" />
+
+<br><br>
+
+### 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,nestjs,flask" />
+
+<br><br>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+<br><br>
+
+### ☁️ Cloud / Database / DevOps
+
+<img src="https://skillicons.dev/icons?i=firebase,aws,gcp,mongodb,mysql,sqlite,docker" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio" />
+
+</div>
+
+---
+
+# 📊 GitHub Command Center
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dileepmadival&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileepmadival&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -140,7 +220,7 @@ Also working with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dileepmadival&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=dileepmadival&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
 
 </div>
 
@@ -150,17 +230,7 @@ Also working with:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dileepmadival&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-# 💻 Commit & Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dileepmadival&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Commit Statistics"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dileepmadival&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -170,99 +240,134 @@ Also working with:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dileepmadival&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dileepmadival&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 📦 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/dileepmadival/beatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dileepmadival&repo=beatbot&theme=tokyonight&hide_border=true" alt="Beatbot"/>
-</a>
+<img src="https://img.shields.io/github/repos/dileepmadival?style=for-the-badge&logo=github&label=TOTAL%20REPOS"/>
 
-<!-- Add more projects here -->
+<img src="https://img.shields.io/github/followers/dileepmadival?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/stars/dileepmadival?style=for-the-badge&logo=github&label=STARS"/>
 
 </div>
 
-### 🎵 Beatbot
-
-**Music • Android • AI • Firebase**
-
-A project focused on creating a modern music application with an engaging interface and smart functionality.
-
-🔗 [View Repository](https://github.com/dileepmadival/beatbot)
-
 ---
 
-# 🛠️ My Development Focus
+# 🧠 Developer Mindset
+
+<div align="center">
 
 ```text
-Mobile Development       ███████████████████░░  90%
-Web Development          ██████████████████░░░  85%
-Backend Development      ████████████████░░░░░  75%
-AI / Machine Learning    ███████████████░░░░░░  70%
-Cloud & Firebase         ████████████████░░░░░  75%
-Problem Solving          ██████████████████░░░  85%
+        ┌───────────────────────────┐
+        │       DEVELOPER LOOP      │
+        └─────────────┬─────────────┘
+                      ↓
+                  💡 IDEA
+                      ↓
+                 🧠 LEARN
+                      ↓
+                 💻 CODE
+                      ↓
+                 🧪 TEST
+                      ↓
+                 🐛 DEBUG
+                      ↓
+                 🚀 BUILD
+                      ↓
+                 🌍 DEPLOY
+                      ↓
+                📚 LEARN MORE
+                      │
+                      └──────────→ 🔁
 ```
-
-> These represent the areas I'm actively exploring and improving.
-
----
-
-# 🎯 Current Goals
-
-* 🚀 Build more production-ready applications
-* 🤖 Explore practical AI/ML applications
-* 📱 Improve Android development skills
-* 🌐 Build scalable web applications
-* ☁️ Learn more about cloud architecture
-* 🧩 Contribute to open-source projects
-* 📚 Continuously improve my software engineering skills
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Modern%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-
-</p>
-
----
-
-# 💡 Fun Fact
-
-<div align="center">
-
-### 🎓 MCA by day, coder by night, builder whenever inspiration strikes.
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 2026 Mission
+
+<table align="center">
+
+<tr>
+<td align="center">📱<br><b>Better Apps</b></td>
+<td align="center">🤖<br><b>AI Projects</b></td>
+<td align="center">🌐<br><b>Web Apps</b></td>
+<td align="center">☁️<br><b>Cloud</b></td>
+<td align="center">🌎<br><b>Open Source</b></td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+```text
+BUILDING     ████████████████████░░
+LEARNING     ██████████████████░░░░
+EXPLORING    █████████████████░░░░░
+CREATING     ███████████████████░░░
+```
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/System%20Design-1f2937?style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ Developer Facts
+
+<div align="center">
+
+| ⚡  | Fact                         |
+| -- | ---------------------------- |
+| 🎓 | MCA Student                  |
+| 💻 | Software Developer           |
+| 📱 | Loves Android Development    |
+| 🤖 | Exploring AI/ML              |
+| 🔥 | Firebase & Cloud Explorer    |
+| 🚀 | Project Builder              |
+| ☕  | Coffee + Code = Productivity |
+| 🧠 | Always learning              |
+
+</div>
+
+---
+
+# 📬 Let's Connect
 
 <div align="center">
 
 <a href="mailto:dileepmadival842@gmail.com">
-<img src="https://img.shields.io/badge/Email-Dileep%20Madival-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dileep-madival-1425a2329/">
-<img src="https://img.shields.io/badge/LinkedIn-Dileep%20Madival-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dileepmadival">
-<img src="https://img.shields.io/badge/GitHub-dileepmadival-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -271,10 +376,18 @@ Problem Solving          ██████████████████�
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+## 💬 One More Thing...
 
-**Thanks for visiting my profile! 🚀**
+### I don't just write code.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" alt="Footer"/>
+### **I build things, break things, fix things — and learn from everything. 🚀**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%A7%A0;Keep+Creating+%E2%9C%A8;Keep+Growing+%F0%9F%8C%B1" alt="Footer Animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
 
 </div>
